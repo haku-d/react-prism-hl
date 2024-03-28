@@ -1,0 +1,15 @@
+{
+  "name": "react-prism-hl",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {},
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "@nx/js": "18.2.0",
+    "nx": "18.2.0"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
