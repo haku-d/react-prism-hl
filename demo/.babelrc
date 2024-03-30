@@ -1,0 +1,21 @@
+{
+  "presets": [
+    [
+      "@nx/react/babel",
+      {
+        "runtime": "automatic"
+      }
+    ]
+  ],
+  // "plugins": [
+  //   [
+  //     "prismjs",
+  //     {
+  //       "languages": ["javascript", "css", "html", "jsx"],
+  //       "plugins": ["line-numbers", "show-language"],
+  //       "theme": "okaidia",
+  //       "css": true
+  //     }
+  //   ]
+  // ]
+}
